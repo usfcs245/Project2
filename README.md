@@ -101,7 +101,7 @@ Second Deadline|
 ---------------|
 **DATE:** Monday, April 2nd|
 *TIME:* 12:55 pm|
-For the second deadline, you **MUST** complete all the requirements in the first dealine **AND** your quick sort and bucket sort. You must also finish all the rest of the requirements list in [Requirements](#requirements).|
+For the second deadline, you **MUST** complete all the requirements in the first deadline **AND** your quick sort and bucket sort. You must also finish all the rest of the requirements list in [Requirements](#requirements).|
 
 ## Things to think about
 

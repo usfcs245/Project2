@@ -306,7 +306,6 @@ public class Test {
 			} catch (IllegalAccessException | IllegalArgumentException | InvocationTargetException e) {				
 				fail.write(sortName.getClass().getName()+", ");
 				success = false;
-				e.printStackTrace();
 			}
 		}
 		if (success) {
@@ -339,7 +338,6 @@ public class Test {
 			} catch (IllegalAccessException | IllegalArgumentException | InvocationTargetException e) {				
 				fail.write(sortName.getClass().getName()+", ");
 				success = false;
-				e.printStackTrace();
 			}
 		}
 		if (success) {
@@ -375,7 +373,6 @@ public class Test {
 			} catch (IllegalAccessException | IllegalArgumentException | InvocationTargetException e) {				
 				fail.write(sortName.getClass().getName()+", ");
 				success = false;
-				e.printStackTrace();
 			}
 		}
 		if (success) {

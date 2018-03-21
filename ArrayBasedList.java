@@ -12,7 +12,7 @@ public class ArrayBasedList<E> extends AbstractList<E> {
 	//TODO: Create constructor(s)
 	
 	public ArrayBasedList() {
-		// TODO Auto-generated constructor stub
+		// TODO: Complete
 	}
 	
 	//TODO: Create and complete instance methods

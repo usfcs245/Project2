@@ -39,7 +39,7 @@ public class Test {
 	}
 	
 	/**
-	 * Prints the timing of all sorts in nano seconds. Does not count the oberhead
+	 * Prints the timing of all sorts in nano seconds. Does not count the overhead
 	 * of rewriting the unsorted list each time.
 	 * 
 	 * @param orig

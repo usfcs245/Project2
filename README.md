@@ -94,11 +94,13 @@ You must upload each part to GitHub **BEFORE** each deadline.
 First Deadline|
 --------------|
 **DATE:** Monday, March 26th|
+*TIME:* 12:55 pm|
 For the first deadline, you **MUST** complete your array based list and insertion sort. These both **MUST** be functional before the deadline.  |
 
 Second Deadline|
 ---------------|
 **DATE:** Monday, April 2nd|
+*TIME:* 12:55 pm|
 For the second deadline, you **MUST** complete all the requirements in the first dealine **AND** your quick sort and bucket sort. You must also finish all the rest of the requirements list in [Requirements](#requirements).|
 
 ## Things to think about

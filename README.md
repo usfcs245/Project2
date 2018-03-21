@@ -1,6 +1,6 @@
 # Project 2
 
-Always view the **INSERT LINK**[most updated version](github.com "Project 2") if possible.
+Always view the [most updated version](https://github.com/usfcs245/Project2 "Project 2") if possible.
 
 In this project you will be required to code insertion sort, quick sort, and bucket sort. You will also need to create your own array based list.
 
